@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 from matplotlib import gridspec
 from matplotlib import animation
 from scipy.signal import convolve
-from fit_disk import find_ellipse_parameters
+from routines_disk_fitting import find_ellipse_parameters
 
 # to compare with Matt's Code
 #from exorings import ellipse_strip
