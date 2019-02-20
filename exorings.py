@@ -603,7 +603,7 @@ def plot_gradient_fit(t, f, fn, xt, yt, p):
 ############################
 ## TESTING
 ############################
-'''
+
 if __name__ == '__main__':
     import matplotlib.pyplot as plt
     from matplotlib import interactive
@@ -780,4 +780,3 @@ if __name__ == '__main__':
 
     plt.show()
     raw_input('press return to continue')
-'''
